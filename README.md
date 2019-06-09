@@ -13,8 +13,8 @@ Clone the repository with `git clone https://github.com/tiagompalte/onebitbot.gi
 * Run `docker-compose rm --rm app rake db:migrate`
 * Run `docker-compose up`
 
-## What was developed...
+## What was developed
 
-* [Sinatra]{https://github.com/sinatra/sinatra}
-* [Rspec]{https://relishapp.com/rspec}
-* [Dialogflow]{https://dialogflow.com}
+* [Sinatra](https://github.com/sinatra/sinatra)
+* [Rspec](https://relishapp.com/rspec)
+* [Dialogflow](https://dialogflow.com)
