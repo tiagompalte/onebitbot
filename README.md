@@ -2,7 +2,7 @@
 
 Second application developed in Bootcamp of [OneBitCode](https://onebitcode.com/)
 
-Access [OneBitPalteBot](t.me/OneBitPalteBot)
+Access [OneBitPalteBot](https://t.me/OneBitPalteBot)
 
 ## Usage
 
