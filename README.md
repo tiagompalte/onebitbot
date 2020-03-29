@@ -8,10 +8,10 @@ Access [OneBitPalteBot](https://t.me/OneBitPalteBot)
 
 Clone the repository with `git clone https://github.com/tiagompalte/onebitbot.git`. In the repository folder:
 
-* Run `docker-compose build`
-* Run `docker-compose rm --rm app rake db:create`
-* Run `docker-compose rm --rm app rake db:migrate`
-* Run `docker-compose up`
+* Run `sudo docker-compose build`
+* Run `sudo docker-compose run --rm website rake db:create`
+* Run `sudo docker-compose run --rm website rake db:migrate`
+* Run `sudo docker-compose up`
 
 ## What was developed
 

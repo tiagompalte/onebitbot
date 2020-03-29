@@ -10,6 +10,7 @@ RUN mkdir -p $INSTALL_PATH
 WORKDIR $INSTALL_PATH
 # Copia o nosso Gemfile para dentro do container
 COPY Gemfile ./
+COPY Gemfile.lock ./
 # Instala as Gems
 RUN bundle install
 # Copia nosso código para dentro do container
